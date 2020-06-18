@@ -1,3 +1,3 @@
 # votingmodel
 
-Read more: http://zesty.ca/voting/sim/
+A partial reproduction of http://zesty.ca/voting/sim/
